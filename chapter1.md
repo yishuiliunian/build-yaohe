@@ -33,5 +33,5 @@
 1. Make it Work，有序的构建一个APP的基础架构，还原业务逻辑
 2. Keep it simple, 进一步优化满足特殊的质量约束。
 
-## 
+So，let's make it work。开始构建一个APP能够跑起来的基础的。
 
